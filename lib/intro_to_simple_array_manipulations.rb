@@ -1,2 +1,1 @@
-def using_push
-  color = ["red", "orange", ""]
+def using_push(Array, String)
