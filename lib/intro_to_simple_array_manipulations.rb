@@ -1,2 +1,2 @@
 def using_push
-  color
+  color = ["red", "orange", ""]
